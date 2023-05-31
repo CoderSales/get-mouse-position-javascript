@@ -12,12 +12,12 @@ document.addEventListener('mousemove', handleMousemove);
 
 ## Method
 
-In Google Chrome:
-Right Click
-Inspect Element
-Console
-Paste in JavaScript
-Press Enter
+- In Google Chrome:
+- Right Click
+- Inspect Element
+- Console
+- Paste in JavaScript
+- Press Enter
 
 ## References
 
