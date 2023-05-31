@@ -1,5 +1,7 @@
 # get-mouse-position-javascript
 
+## JavaScript (also in main.js and on StackOverflow, see References/Answer)
+
 ```ES6 JavaScript
 let handleMousemove = (event) => {
   console.log(`mouse position: ${event.x}:${event.y}`);
@@ -7,6 +9,15 @@ let handleMousemove = (event) => {
 
 document.addEventListener('mousemove', handleMousemove);
 ```
+
+## Method
+
+In Google Chrome:
+Right Click
+Inspect Element
+Console
+Paste in JavaScript
+Press Enter
 
 ## References
 
